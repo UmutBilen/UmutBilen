@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umut Bilen</h1>
 <h3 align="center">I am a budding entry level developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutbilen&label=Profile%20views&color=0e75b6&style=flat" alt="umutbilen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutbilen" alt="umutbilen" /></a> </p>
-
 - 📫 How to reach me **umutbilen123@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/306833262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="306833262" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22712222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22712222" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjqrhgiy14x5aavla2akwpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjqrhgiy14x5aavla2akwpa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjqrhgiy14x5aavla2akwpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjqrhgiy14x5aavla2akwpa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
